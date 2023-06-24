@@ -16,7 +16,7 @@ In einem Artikel über die Fussball-WM in Qatar stolperte ich über den Begriff 
 
 ![Abbildung 1: Aussicht aus dem Bus (Bild: Gian Federer)](repo_bild2.jpg)
 
-### Der Beginn des Höhentrainings 
+### Der Beginn des Höhentrainings
 
 Jon Wehrlin über die Anfänge des Höhentrainings:
 
@@ -39,6 +39,8 @@ Wir haben dazu einmal einen Versuch gemacht. Bei diesem Versuch sind die Athlete
 ### Wer ist Jon Wehrlin?
 
 Dr. Jon Wehrlin ist Leiter der Abteilung Ausdauerphysiologie an der Eidgenössischen Hochschule für Sport in Magglingen, Schweiz (EHSM). Herr Wehrlin hat nach dem Lehrerseminar an der Uni Bern Sportlehrer studiert und schliesslich an der Universität in Oslo den Doktortitel in Sportwissenschaften erworben. Herr Wehrlin ist schon seit vielen Jahren in der Höhentrainingsforschung tätig. Während seiner Karriere hat er schon zahlreiche Berichte über Höhentraining veröffentlicht. Herr Wehrlin’s Abteilung ist für die wissenschaftliche Betreuung verschiedener Schweizer Nationalsportler zuständig. F\*Dazu zählen Sportler\*innen der Sportarten Langlauf, Biathlon, Mountainbike, Bahnradfahren, Triathlon und Leichtathletik.
+
+![Dr. Jon Wehrlin ist Leiter der Abteilung Ausdauerphysiologie an der Eidgenössischen Hochschule für Sport in Magglingen, Schweiz (EHSM). Herr Wehrlin hat nach dem Lehrerseminar an der Uni Bern Sportlehrer studiert und schliesslich an der Universität in Oslo den Doktortitel in Sportwissenschaften erworben. Herr Wehrlin ist schon seit vielen Jahren in der Höhentrainingsforschung tätig. Während seiner Karriere hat er schon zahlreiche Berichte über Höhentraining veröffentlicht. Herr Wehrlin’s Abteilung ist für die wissenschaftliche Betreuung verschiedener Schweizer Nationalsportler zuständig. F\*Dazu zählen Sportler\*innen der Sportarten Langlauf, Biathlon, Mountainbike, Bahnradfahren, Triathlon und Leichtathletik.]( "Wer ist Jon Wehrlin?")
 
 ## Wie läuft ein Höhentraining ab?
 
