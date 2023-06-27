@@ -99,4 +99,4 @@ Es hat ein grosses Laufband, worauf sogar Radfahrer und Langläufer trainieren k
 
 ![Normales Laufband mit Höhensimulationsgeräten (Bild: Gian Federer)](repo_bild5.jpg)
 
-![Normales Fahrrad mit speziellen Höhensimulationsgeräten (Bild: Gian Federer)](repo_bild6.jpg)
+![Fahrrad mit speziellen Höhensimulationsgeräten (Bild: Gian Federer)](repo_bild6.jpg)
