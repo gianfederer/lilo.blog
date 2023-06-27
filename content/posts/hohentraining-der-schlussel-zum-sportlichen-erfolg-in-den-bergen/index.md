@@ -35,7 +35,7 @@ Der Grund für die besseren Leistungen bei den Sprints ist, dass es in der Höhe
 
 Hat der Luftdruck auch einen Einfluss auf den Körper?
 
-Ja, denn in der Höhe muss man jedoch viel mehr atmen, um an die gleiche Menge Sauerstoff zu kommen. Daher die schlechteren Leistungen in Ausdauersportarten. Auf 3000 Meter über Meer muss man sogar ein Drittel mehr Luft einatmen, um an dieselbe Menge Sauerstoff wie auf Meereshöhe zu kommen. Für die Ausdauerleistungsfähigkeit ist der Sauerstoffdruck der Einatmungsluft entscheidend. 
+Ja, denn in der Höhe muss man jedoch viel mehr atmen, um an die gleiche Menge Sauerstoff zu kommen. Daher die schlechteren Leistungen in Ausdauersportarten. **Auf 3000 Meter über Meer muss man sogar ein Drittel mehr Luft einatmen, um an dieselbe Menge Sauerstoff wie auf Meereshöhe zu kommen.** Für die Ausdauerleistungsfähigkeit ist der Sauerstoffdruck der Einatmungsluft entscheidend. 
 
 ![Zeigt den O2-Druck auf (Grafik der EHSM)](repo_bild3.png)
 
@@ -58,7 +58,19 @@ Dr. Jon Wehrlin ist Leiter der Abteilung Ausdauerphysiologie an der Eidgenössis
 ## Wie läuft ein Höhentraining ab?
 
 Sobald ich und Jon Wehrlin in seinem Büro angekommen sind und ich mich gesetzt habe, kann ich ihm meine erste Frage stellen. Ich will wissen, wie ich meine Leistung mithilfe des Höhentrainings verbessern kann. 
-Jon Wehrlin antwortet mir, dass Amateursportler*innen an anderen Orten, wie der Fitness, noch viel mehr Potenzial haben und ein Höhentraining deshalb für mich als Amateursportler keinen Sinn macht. Ein Höhentraining ist für Profisportler*innen, bei denen schon alle anderen Möglichkeiten ausgereizt sind. Wenn man als Amateursportler jedoch ein Höhentraining absolviert, dann als Vorbereitung für einen Wettkampf in der Höhe, so Jon Wehrlin. Weiter ergänzt er: "Bei Wettkämpfen im Flachland ist es sehr schwierig zu sagen, ob ein Höhentraining unbedingt nötig ist.” Dies gelte   auch für Profisportler. Das zu hören enttäuscht mich natürlich ein wenig. Meine nächste Frage ist: Was so ein Höhentraining überhaupt sei und wie es funktioniere. Ich erfahre, dass ein Höhentraining, wie der Name schon sagt, in der Höhe stattfindet. Um den positiven Effekt eines Höhentrainings zu erfahren, muss man sich über einen grösseren Zeitraum in der Höhe aufhalten. Die Dauer beträgt etwa 3 Wochen, erklärt er mir. Weiter ergänzt er, dass das noch nicht alles ist, denn man muss vieles beachten. "Wenn man in die Höhe geht, ist wichtig, dass man sich an gewisse Regeln hält.” sagt Jon Wehrlin und präzisiert: “Wenn man gerade in die Höhe kommt, muss man aufpassen, dass man sich nicht überanstrengt und in ein Übertraining kommt. Man muss sich zuerst akklimatisieren.”  Diese Anpassungsphase dauert etwa zehn Tage und wird «period of poor performance» genannt. Der Körper benötigt diese Zeit, um wieder in Topform zu kommen.
+Jon Wehrlin antwortet mir, dass Amateursportler*innen an anderen Orten, wie der Fitness, noch viel mehr Potenzial haben und ein Höhentraining deshalb für mich als Amateursportler keinen Sinn macht. Ein Höhentraining ist für Profisportlerinnen, bei denen schon alle anderen Möglichkeiten ausgereizt sind. Wenn man als Amateursportler jedoch ein Höhentraining absolviert, dann als Vorbereitung für einen Wettkampf in der Höhe, so Jon Wehrlin. Weiter ergänzt er: 
+
+> "*Bei Wettkämpfen im Flachland ist es sehr schwierig zu sagen, ob ein Höhentraining unbedingt nötig ist.*”
+
+Dies gelte auch für Profisportler. Das zu hören enttäuscht mich natürlich ein wenig. Meine nächste Frage ist: Was so ein Höhentraining überhaupt sei und wie es funktioniere. Ich erfahre, dass ein Höhentraining, wie der Name schon sagt, in der Höhe stattfindet. Um den positiven Effekt eines Höhentrainings zu erfahren, muss man sich über einen grösseren Zeitraum in der Höhe aufhalten. Die Dauer beträgt etwa 3 Wochen, erklärt er mir. Weiter ergänzt er, dass das noch nicht alles ist, denn man muss vieles beachten. 
+
+> "*Wenn man in die Höhe geht, ist wichtig, dass man sich an gewisse Regeln hält*.”
+
+ sagt Jon Wehrlin und präzisiert: 
+
+> “*Wenn man gerade in die Höhe kommt, muss man aufpassen, dass man sich nicht überanstrengt und in ein Übertraining kommt. Man muss sich zuerst akklimatisieren*.” 
+
+ Diese Anpassungsphase dauert etwa zehn Tage und wird «period of poor performance» genannt. Der Körper benötigt diese Zeit, um wieder in Topform zu kommen.
 
 ## Das Höhentraining aus medizinischer Sicht
 
