@@ -23,7 +23,7 @@ In einem Artikel über die Fussball-WM in Qatar stolperte ich über den Begriff 
 
 ## Der Beginn des Höhentrainings
 
-Jon Wehrlin über die Anfänge des Höhentrainings:
+Könnten Sie mir erklären, wo das Höhentraining seinen Ursprung hat?
 Das Höhentraining hat seinen Ursprung im Jahre 1968, als die Olympischen Spiele in Mexiko City stattfanden. Mexiko City liegt auf 2500 Metern über Meer. Damals wusste man noch nicht, wie sich die Höhe auf die Leistung der Sportler*innen auswirkt. Im Anschluss an die Olympischen Spiele hat man dann die erreichten Leistungen der Sportler in den verschiedenen Disziplinen mit den Bestleistungen der Olympischen Spiele anderer Jahre verglichen. 
 
 ![Fuchs U, Reiss M. Höhentraining – Das Erfolgskonzept der Ausdauersportarten. Philipka, Münster 1990, Trainerbibliothek.](repo_bild1.png)
@@ -33,11 +33,15 @@ In diesem Diagramm siehst du die verschiedenen Disziplinen mit den dazugehörige
 Man kann erkennen, dass die Leistungen bei den Sprints besser waren als in den anderen Jahren, bei den Ausdauerdisziplinen erzielten die Athleten jedoch schlechtere Leistungen. Bei den 800-Meter-Läufen waren die Leistungen in der Höhe gleich wie bei Wettkämpfen in niedriger Höhe. 
 Der Grund für die besseren Leistungen bei den Sprints ist, dass es in der Höhe einen tieferen Luftdruck und somit auch einen tieferen Luftwiderstand gibt. Ist der Luftdruck tiefer, sind die Sauerstoff- und Stickstoffmoleküle auf ein grösseres Volumen verteilt. Somit gibt es weniger Moleküle, welche einen Widerstand verursachen. Dies macht sich vor allem bei Sportarten wie Radfahren, Weitsprung und Sprints bemerkbar. Generell kann man sagen, dass der Effekt bei Sportarten, in denen man sich schnell bewegt, grösser ist. 
 
-In der Höhe muss man jedoch viel mehr atmen, um an die gleiche Menge Sauerstoff zu kommen. Daher die schlechteren Leistungen in Ausdauersportarten. Auf 3000 Meter über Meer muss man sogar ein Drittel mehr Luft einatmen, um an dieselbe Menge Sauerstoff wie auf Meereshöhe zu kommen. Für die Ausdauerleistungsfähigkeit ist der Sauerstoffdruck der Einatmungsluft entscheidend. 
+Hat der Luftdruck auch einen Einfluss auf den Körper?
+
+Ja, denn in der Höhe muss man jedoch viel mehr atmen, um an die gleiche Menge Sauerstoff zu kommen. Daher die schlechteren Leistungen in Ausdauersportarten. Auf 3000 Meter über Meer muss man sogar ein Drittel mehr Luft einatmen, um an dieselbe Menge Sauerstoff wie auf Meereshöhe zu kommen. Für die Ausdauerleistungsfähigkeit ist der Sauerstoffdruck der Einatmungsluft entscheidend. 
 
 ![Zeigt den O2-Druck auf (Grafik der EHSM)](repo_bild3.png)
 
 Wie du der Grafik entnehmen kannst, ist die Quecksilbersäule auf Meereshöhe etwa 149mm hoch, auf 3000m sind es nur noch zwei Drittel, also 100mm. Auf 3000m hat man einfach weniger Sauerstoff zur Verfügung. 
+
+Wie konnte man sehen, dass das einen Einfluss auf die sportliche Leistung hat?
 
 Wir haben dazu einmal einen Versuch gemacht. Bei diesem Versuch sind die Athleten mit 50% Intensität auf dem Laufband gelaufen. In der Höhe braucht man bei derselben Belastung, nehmen wir zum Beispiel 10km/h, gleich viel Sauerstoff wie im Flachland, das heisst, dass die Effizienz dieselbe ist. Jedoch hat der Körper weniger Sauerstoff zur Verfügung. Der Körper reagiert auf dieses Defizit, indem das Herz schneller schlägt, damit die gleiche Menge Sauerstoff im Blut transportiert wird. Für die gleiche Belastung hat man auf 300m eine Herzfrequenz von 133 Schlägen pro Minute, auf 2800m schlägt das Herz dann schon 150-mal in der Minute. Das heisst, dass die Ausdauerleistungsfähigkeit in der Höhe schlechter ist, da sie stark mit der Sauerstoffaufnahme zusammenhängt. 
 
