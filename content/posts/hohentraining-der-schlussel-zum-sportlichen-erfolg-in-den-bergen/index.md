@@ -21,8 +21,6 @@ In einem Artikel über die Fussball-WM in Qatar stolperte ich über den Begriff 
 
 {{<box>}}
 
-## Der Beginn des Höhentrainings
-
 ### Ein Auszug aus dem Interview mit Jon Wehrlin
 
 *Könnten Sie mir erklären, wo das Höhentraining seinen Ursprung hat?*
@@ -41,19 +39,19 @@ Der Grund für die besseren Leistungen bei den Sprints ist, dass es in der Höhe
 
 Ja, denn in der Höhe muss man jedoch viel mehr atmen, um an die gleiche Menge Sauerstoff zu kommen. Daher die schlechteren Leistungen in Ausdauersportarten. **Auf 3000 Meter über Meer muss man sogar ein Drittel mehr Luft einatmen, um an dieselbe Menge Sauerstoff wie auf Meereshöhe zu kommen.** Für die Ausdauerleistungsfähigkeit ist der Sauerstoffdruck der Einatmungsluft entscheidend. 
 
-![Zeigt den O2-Druck auf (Grafik der EHSM)](repo_bild3.png)
+![Zeigt den O2-Druck (Grafik der EHSM)](repo_bild3.png)
 
-Wie du der Grafik entnehmen kannst, ist die Quecksilbersäule auf Meereshöhe etwa 149mm hoch, auf 3000m sind es nur noch zwei Drittel, also 100mm. Auf 3000m hat man einfach weniger Sauerstoff zur Verfügung. 
+Wie du der Grafik entnehmen kannst, ist die Quecksilbersäule auf Meereshöhe etwa 149 mm hoch, auf 3000 m sind es nur noch zwei Drittel, also 100 mm. Auf 3000 m hat man einfach weniger Sauerstoff zur Verfügung. 
 
-*Wie konnte man sehen, dass das einen Einfluss auf die sportliche Leistung hat?*
+*Kann man die Leistungsveränderung anhand von Tests erkennen?*
 
-Wir haben dazu einmal einen Versuch gemacht. Bei diesem Versuch sind die Athleten mit 50% Intensität auf dem Laufband gelaufen. In der Höhe braucht man bei derselben Belastung, nehmen wir zum Beispiel 10km/h, gleich viel Sauerstoff wie im Flachland, das heisst, dass die Effizienz dieselbe ist. Jedoch hat der Körper weniger Sauerstoff zur Verfügung. Der Körper reagiert auf dieses Defizit, indem das Herz schneller schlägt, damit die gleiche Menge Sauerstoff im Blut transportiert wird. Für die gleiche Belastung hat man auf 300m eine Herzfrequenz von 133 Schlägen pro Minute, auf 2800m schlägt das Herz dann schon 150-mal in der Minute. Das heisst, dass die Ausdauerleistungsfähigkeit in der Höhe schlechter ist, da sie stark mit der Sauerstoffaufnahme zusammenhängt. 
+Ja, wir haben dazu einmal einen Versuch gemacht. Bei diesem Versuch sind die Athleten mit 50% Intensität auf dem Laufband gelaufen. In der Höhe braucht man bei derselben Belastung, nehmen wir zum Beispiel 10km/h, gleich viel Sauerstoff wie im Flachland, das heisst, dass die Effizienz dieselbe ist. Jedoch hat der Körper weniger Sauerstoff zur Verfügung. Der Körper reagiert auf dieses Defizit, indem das Herz schneller schlägt, damit die gleiche Menge Sauerstoff im Blut transportiert wird. Für die gleiche Belastung hat man auf 300m eine Herzfrequenz von 133 Schlägen pro Minute, auf 2800m schlägt das Herz dann schon 150-mal in der Minute. Das heisst, dass die Ausdauerleistungsfähigkeit in der Höhe schlechter ist, da sie stark mit der Sauerstoffaufnahme zusammenhängt. 
 
 {{</box>}}
 
 {{<box>}}
 
-## Wer ist Jon Wehrlin?
+### Wer ist Jon Wehrlin?
 
 Dr. Jon Wehrlin ist Leiter der Abteilung Ausdauerphysiologie an der Eidgenössischen Hochschule für Sport in Magglingen, Schweiz (EHSM). Herr Wehrlin hat nach dem Lehrerseminar an der Uni Bern Sportlehrer studiert und schliesslich an der Universität in Oslo den Doktortitel in Sportwissenschaften erworben. Herr Wehrlin ist schon seit vielen Jahren in der Höhentrainingsforschung tätig. Während seiner Karriere hat er schon zahlreiche Berichte über Höhentraining veröffentlicht. Herr Wehrlin’s Abteilung ist für die wissenschaftliche Betreuung verschiedener Schweizer Nationalsportler zuständig. *Dazu zählen Sportler*innen der Sportarten Langlauf, Biathlon, Mountainbike, Bahnradfahren, Triathlon und Leichtathletik. 
 
@@ -95,8 +93,8 @@ Die zweite Möglichkeit ist, vorher ein Höhentraining zu absolvieren. Man geht 
 Jon Wehrlin hat alle meine Fragen geklärt, aber ich habe noch nichts von der Einrichtung, die von der EHSM verwendet wird, gesehen. 
 Es hat ein grosses Laufband, worauf sogar Radfahrer und Langläufer trainieren können. Es gibt jedoch nicht nur dieses Laufband, sondern auch noch viele andere Geräte (siehe unten). Obwohl ich das Training der Mountainbiker knapp verpasst habe, ist es trotzdem ein zwar recht kurzer, aber sehr interessanter Einblick gewesen. Wir verabschieden uns, und ich werfe noch einen letzten Blick auf die Sporthalle, bevor ich in den Bus einsteige und mich wieder auf meinen langen Heimweg mache.
 
-![Laufband für Radfahrer und anderer Sportler (Bild: Gian Federer)](repo_bild3.jpg)
+![Laufband für Radfahrer*innen und anderer Sportler (Bild: Gian Federer)](repo_bild3.jpg)
 
-![Normales Laufband mit Höhensimulationsgeräten (Bild: Gian Federer)](repo_bild5.jpg)
+![Laufband mit Höhensimulationsgeräten (Bild: Gian Federer)](repo_bild5.jpg)
 
 ![Fahrrad mit speziellen Höhensimulationsgeräten (Bild: Gian Federer)](repo_bild6.jpg)
