@@ -93,7 +93,7 @@ Die zweite Möglichkeit ist, vorher ein Höhentraining zu absolvieren. Man geht 
 Jon Wehrlin hat alle meine Fragen geklärt, aber ich habe noch nichts von der Einrichtung, die von der EHSM verwendet wird, gesehen. 
 Es hat ein grosses Laufband, worauf sogar Radfahrer und Langläufer trainieren können. Es gibt jedoch nicht nur dieses Laufband, sondern auch noch viele andere Geräte (siehe unten). Obwohl ich das Training der Mountainbiker knapp verpasst habe, ist es trotzdem ein zwar recht kurzer, aber sehr interessanter Einblick gewesen. Wir verabschieden uns, und ich werfe noch einen letzten Blick auf die Sporthalle, bevor ich in den Bus einsteige und mich wieder auf meinen langen Heimweg mache.
 
-![Laufband für Radfahrer*innen und anderer Sportler (Bild: Gian Federer)](repo_bild3.jpg)
+![Laufband für Radfahrer*innen und anderer Sportler*innen (Bild: Gian Federer)](repo_bild3.jpg)
 
 ![Laufband mit Höhensimulationsgeräten (Bild: Gian Federer)](repo_bild5.jpg)
 
