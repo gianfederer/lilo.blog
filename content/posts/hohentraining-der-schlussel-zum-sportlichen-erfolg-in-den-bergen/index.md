@@ -1,7 +1,7 @@
 +++
 title = "Höhentraining - Der Schlüssel zum sportlichen Erfolg, in den Bergen?"
 date = "2023-06-28"
-draft = true
+draft = false
 pinned = false
 image = "img_3808_resized.jpg"
 +++
@@ -26,11 +26,9 @@ In einem Artikel über die Fussball-WM in Qatar stolperte ich über den Begriff 
 
 *Könnten Sie mir erklären, wo das Höhentraining seinen Ursprung hat?*
 
-
 Das Höhentraining hat seinen Ursprung im Jahre 1968, als die Olympischen Spiele in Mexiko City stattfanden. Mexiko City liegt auf 2500 Metern über Meer. Damals wusste man noch nicht, wie sich die Höhe auf die Leistung der Sportler*innen auswirkt. Im Anschluss an die Olympischen Spiele hat man dann die erreichten Leistungen der Sportler in den verschiedenen Disziplinen mit den Bestleistungen der Olympischen Spiele anderer Jahre verglichen. 
 
 ![Fuchs U, Reiss M. Höhentraining – Das Erfolgskonzept der Ausdauersportarten. Philipka, Münster 1990, Trainerbibliothek.](repo_bild1.png)
-
 
 In diesem Diagramm siehst du die verschiedenen Disziplinen mit den dazugehörigen Leistungen. 
 Man kann erkennen, dass die Leistungen bei den Sprints besser waren als in den anderen Jahren, bei den Ausdauerdisziplinen erzielten die Athleten jedoch schlechtere Leistungen. Bei den 800-Meter-Läufen waren die Leistungen in der Höhe gleich wie bei Wettkämpfen in niedriger Höhe. 
@@ -94,7 +92,7 @@ Die zweite Möglichkeit ist, vorher ein Höhentraining zu absolvieren. Man geht 
 Jon Wehrlin hat alle meine Fragen geklärt, aber ich habe noch nichts von der Einrichtung, die von der EHSM verwendet wird, gesehen. 
 Es hat ein grosses Laufband, worauf sogar Radfahrer und Langläufer trainieren können. Es gibt jedoch nicht nur dieses Laufband, sondern auch noch viele andere Geräte (siehe unten). Obwohl ich das Training der Mountainbiker knapp verpasst habe, ist es trotzdem ein zwar recht kurzer, aber sehr interessanter Einblick gewesen. Wir verabschieden uns, und ich werfe noch einen letzten Blick auf die Sporthalle, bevor ich in den Bus einsteige und mich wieder auf meinen langen Heimweg mache.
 
-![Laufband für Radfahrer*innen und anderer Sportler*innen (Bild: Gian Federer)](repo_bild3.jpg)
+![Laufband für Radfahrer*innen und Langläufer*innen (Bild: Gian Federer)](repo_bild3.jpg)
 
 ![Laufband mit Höhensimulationsgeräten (Bild: Gian Federer)](repo_bild5.jpg)
 
