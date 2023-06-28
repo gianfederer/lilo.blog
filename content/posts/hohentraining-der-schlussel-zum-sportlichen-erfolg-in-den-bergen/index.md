@@ -1,7 +1,7 @@
 +++
 title = "Höhentraining - Der Schlüssel zum sportlichen Erfolg, in den Bergen?"
-date = "2023-06-26"
-draft = true
+date = "2023-06-28"
+draft = false
 pinned = false
 image = "img_3808_resized.jpg"
 +++
