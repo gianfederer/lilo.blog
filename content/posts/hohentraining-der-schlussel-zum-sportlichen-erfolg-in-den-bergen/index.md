@@ -18,9 +18,7 @@ In der Welt des Höhentrainings, dort wo sich die Athleten an ihre Grenzen bring
 
 In einem Artikel über die Fussball-WM in Qatar stolperte ich über den Begriff Höhentraining. Ich habe nicht gewusst, was Höhentraining ist. Deshalb habe ich beschlossen, die Zeitung beiseitezulegen und meine Zeit mit der Recherche über Höhentraining zu verbringen. So hat das alles begonnen, und jetzt sitze ich hier, im Zug nach Biel, um mich mit Jon Wehrlin von der Eidgenössischen Hochschule für Sport zu treffen. Ich freue mich, denn ich werde heute sicher viel über Höhentraining erfahren. Nach einer 21 Minuten langen Zugfahrt komme ich in Biel am Hauptbahnhof an. Schon als ich den Zug mit all meinen Sachen verlasse, kann ich das Ziel meiner Reise, das hoch über Biel liegt, bereits sehen. Ich schaue nach, wann die Magglingen-Bahn fährt, und werde überrascht. Denn ich habe nicht beachtet, dass die Bahn aufgrund von Wartungsarbeiten gar nicht fährt. Ich gehe zur Touristeninformation und frage, ob es einen alternativen Weg gibt. Zu meinem Glück fährt parallel zur Magglingen-Bahn die Leubringen-Bahn. Ich bedanke mich für die Auskunft und mache mich auf den Weg zum Bus, der mich zur Talstation bringt. Die Bahn fährt los, sobald ich eingestiegen bin. Während ich nach oben fahre und die Aussicht geniesse, fühle ich mich fast wie ein Profisportler, der sich auf dem Weg zum Training in der Höhe befindet.  Die Bahn hält, und ich steige aus, glücklicherweise fährt der Bus schon in zwei Minuten. Ich setze mich hin und schaue aus dem Fenster, denn aus dem Bus hat man eine fabelhafte Aussicht. Nach einer kurzen Fahrt erreiche ich mein Ziel. Jon Wehrlin, der bereits an der Haltestelle wartet, begrüsst mich. Anschliessend führt er mich in sein Büro, wo ich meine Fragen stellen kann.
 
-![Aussicht aus dem Bus (Bild: Gian Federer)](img_3808_resized.jpg)
 
-{{<box>}}
 
 {{<box title="Ein Auszug aus dem Interview mit Jon Wehrlin">}}
 
@@ -48,7 +46,7 @@ Ja, wir haben dazu einmal einen Versuch gemacht. Bei diesem Versuch sind die Ath
 
 {{</box>}}
 
-{{<box>}}
+
 
 {{<box title="Wer ist Jon Wehrlin?">}}
 
