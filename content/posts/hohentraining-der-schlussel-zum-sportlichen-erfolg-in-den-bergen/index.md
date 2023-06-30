@@ -5,9 +5,8 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "img_3808_resized.jpg"
+description = "In der Welt des Höhentrainings, dort wo sich die Athleten an ihre Grenzen bringen, um grandiose Leistungen zu erzielen, gibt es einiges zu beachten. Worauf muss man achten und wer kann profitieren? Dieser Frage habe ich mich in dieser Reportage angenommen."
 +++
-# Höhentraining - Der Schlüssel zum sportlichen Erfolg, in den Bergen?
-
 {{<lead>}}
 
 In der Welt des Höhentrainings, dort wo sich die Athleten an ihre Grenzen bringen, um grandiose Leistungen zu erzielen, gibt es einiges zu beachten. Worauf muss man achten und wer kann profitieren? Dieser Frage habe ich mich in dieser Reportage angenommen.
