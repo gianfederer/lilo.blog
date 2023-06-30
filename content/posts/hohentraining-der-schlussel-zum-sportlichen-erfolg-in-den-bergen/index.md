@@ -23,7 +23,7 @@ In einem Artikel über die Fussball-WM in Qatar stolperte ich über den Begriff 
 
 {{<box>}}
 
-### Ein Auszug aus dem Interview mit Jon Wehrlin
+{{<box title="Ein Auszug aus dem Interview mit Jon Wehrlin">}}
 
 *Könnten Sie mir erklären, wo das Höhentraining seinen Ursprung hat?*
 
@@ -51,7 +51,7 @@ Ja, wir haben dazu einmal einen Versuch gemacht. Bei diesem Versuch sind die Ath
 
 {{<box>}}
 
-### Wer ist Jon Wehrlin?
+{{<box title="Wer ist Jon Wehrlin?">}}
 
 Dr. Jon Wehrlin ist Leiter der Abteilung Ausdauerphysiologie an der Eidgenössischen Hochschule für Sport in Magglingen, Schweiz (EHSM). Herr Wehrlin hat nach dem Lehrerseminar an der Uni Bern Sportlehrer studiert und schliesslich an der Universität in Oslo den Doktortitel in Sportwissenschaften erworben. Herr Wehrlin ist schon seit vielen Jahren in der Höhentrainingsforschung tätig. Während seiner Karriere hat er schon zahlreiche Berichte über Höhentraining veröffentlicht. Herr Wehrlin’s Abteilung ist für die wissenschaftliche Betreuung verschiedener Schweizer Nationalsportler zuständig. *Dazu zählen Sportler*innen der Sportarten Langlauf, Biathlon, Mountainbike, Bahnradfahren, Triathlon und Leichtathletik. 
 
