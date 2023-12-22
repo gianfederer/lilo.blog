@@ -3,6 +3,8 @@ title = "Kritisches Denken in den sozialen Medien"
 date = "2023-12-18"
 draft = false
 pinned = false
+tags = ["Deutsch", "KritischesDenken"]
+image = "blog_picture.jpg"
 +++
 *In folgendem Text werde ich über meine Erfahrungen mit dem kritischen Denken berichten. Nachfolgend werde ich die Nachrichtenerstattung in den Sozialen Medien aus der Perspektive des Kritischen Denkens analysieren.*
 
