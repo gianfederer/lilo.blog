@@ -1,7 +1,7 @@
 +++
 title = "Kritisches Denken in den sozialen Medien"
 date = "2023-12-18"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "KritischesDenken"]
 image = "blog_picture.jpg"
