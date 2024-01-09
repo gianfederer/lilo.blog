@@ -4,20 +4,18 @@ date = "2024-01-09"
 draft = false
 pinned = false
 +++
-Le livre “Murambi, le livre des ossements” été écrit par Boubacar Boris Diop en 2011 et il s’agit du génocide rwandais en 1994. L’auteur est né en 1946 et il est un journaliste et novelliste sénégalais et il a donné des courses sur le génocide. Le livre est séparé en 5 parts, et ces parts sont dévidé en plusieurs de sou chapitres. Pendant les diffèrent parties, l’auteur saute à différentes parts pendant, devant et après le génocide du Ruanda.
+# “Murambi, le livre des ossements” Boubacar Boris Diop
 
-Les informations qui sont important de savoir pour comprendre se livre sont que Ruanda a été colonise premier par les Allemands et après ça les Béliquière l’ont colonisé. Pendant la colonisation des belgiques, ils ont encouragé les conflits ethniques. Le génocide a commencé en 1994 et a duré 100 jours et plus de 800'000 personnes ont été tuer. Le conflit a été entre les Tutsi (la minorité) et les Hutus (la majorité). Les personnes qui ont tué la majorité des personnes ont était l’Interahamwe, qui était un paramilitaire qui était le plus extrémiste.
+Le livre "Murambi, le livre des ossements" a été écrit par Boubacar Boris Diop en 2011, et il traite du génocide rwandais de 1994. L'auteur est né en 1946 et est un journaliste et romancier sénégalais, ayant dispensé des cours sur le génocide. Le livre est divisé en 5 parties, chacune étant subdivisée en plusieurs chapitres. Tout au long des différentes parties, l'auteur fait des sauts temporels avant, pendant et après le génocide au Rwanda.
 
-Ce livre raconte une histoire du génocide de Rwanda. Les figures principales sont des jeunes collègues qui ont survécu le génocide. L’autre personne important est un docteur qui s’appelle Joseph Karakezi, qui était part de l’Interahamwe et il y a un rôle de chef.
+Les informations cruciales à comprendre dans ce livre sont que le Rwanda a été d'abord colonisé par les Allemands, puis par les Belges. Pendant la colonisation belge, ces derniers ont encouragé les conflits ethniques. Le génocide a débuté en 1994, durant 100 jours, et a entraîné la mort de plus de 800 000 personnes. Le conflit opposait les Tutsi (minorité) aux Hutus (majorité). Les principaux responsables du massacre étaient les Interahamwe, une milice paramilitaire extrémiste.
 
- 
+ Le livre relate une histoire du génocide au Rwanda, mettant en avant des jeunes survivants du génocide en tant que personnages principaux. Une figure importante est le docteur Joseph Karakezi, faisant partie de l'Interahamwe et jouant un rôle de chef.
 
-Micro-analyse : Ce un texte francophone parce qu’on parle français au Rwanda. Le génocide était un résulte du conflit de les deux ethnies Tutsi et Hutu. Dans chaque chapitre le narrateur est une personne différente, au début c'est un peu difficile et il faut s'y habituer.
-
- 
+Micro-analyse : Ce texte est en français, car le français est la langue parlée au Rwanda. Le génocide résulte du conflit entre les deux ethnies, les Tutsi et les Hutu. Chaque chapitre est narré par une personne différente, ce qui peut être déconcertant au début mais nécessite une adaptation.
 
 Sources :
 
-<https://en.wikipedia.org/wiki/Boubacar_Boris_Diop> 
+<https://en.wikipedia.org/wiki/Boubacar_Boris_Diop>
 
 « Murambi, le livre des ossements » édition: *la collection de poche des éditions Zulma*
