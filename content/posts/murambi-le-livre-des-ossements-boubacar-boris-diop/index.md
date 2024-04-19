@@ -1,7 +1,7 @@
 +++
 title = "“Murambi, le livre des ossements” Boubacar Boris Diop"
 date = "2024-01-09"
-draft = false
+draft = true
 pinned = false
 +++
 # “Murambi, le livre des ossements” Boubacar Boris Diop
