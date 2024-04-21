@@ -1,7 +1,7 @@
 +++
 title = "Blog Woyzeck"
 date = "2024-04-21"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
 +++
