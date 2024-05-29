@@ -1,7 +1,7 @@
 +++
 title = "Die Schattenseiten eines Genies: Franz Kafkas innere Kämpfe und Schwächen"
 date = "2024-05-26"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "Kafka"]
 +++
