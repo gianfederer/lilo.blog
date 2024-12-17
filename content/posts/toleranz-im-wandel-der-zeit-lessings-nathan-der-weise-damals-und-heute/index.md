@@ -1,7 +1,7 @@
 +++
 title = "Toleranz im Wandel der Zeit: Lessings Nathan der Weise damals und heute"
 date = "2024-10-31"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "NathanderWeise", "Lessing"]
 +++
